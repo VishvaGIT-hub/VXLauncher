@@ -1,12 +1,10 @@
 # VX Launcher — Portable Minecraft Launcher
 
-[![Release](https://img.shields.io/github/v/release/vx-launcher/vx-launcher?color=purple&label=Release)](https://github.com)
-[![License](https://img.shields.io/github/license/vx-launcher/vx-launcher?color=blue)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blueviolet)](https://github.com)
+[![Release](https://img.shields.io/github/v/release/VishvaGIT-hub/VXLauncher?color=purple&label=Release)](https://github.com/VishvaGIT-hub/VXLauncher)
+[![License](https://img.shields.io/github/license/VishvaGIT-hub/VXLauncher?color=blue)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blueviolet)](https://github.com/VishvaGIT-hub/VXLauncher)
 
 A lightweight, portable Minecraft Java Edition launcher designed for speed, transparency, and convenience. Extract, launch, and play Minecraft instantly — no installation or administrative privileges required.
-
-![Launcher Preview](assets/hero-bg.png)
 
 ## Key Features
 
@@ -19,7 +17,7 @@ A lightweight, portable Minecraft Java Edition launcher designed for speed, tran
 
 ## Quick Start
 
-1. Go to the [Releases](https://github.com) page.
+1. Go to the [Releases](https://github.com/VishvaGIT-hub/VXLauncher/releases) page.
 2. Download the `VXLauncher-Portable-v1.1.4.zip` bundle.
 3. Extract the ZIP file contents to any folder of your choice (e.g., your Desktop or a USB drive).
 4. Run `VXLauncher.exe`.
