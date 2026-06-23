@@ -1,0 +1,30 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Node / Build outputs (if any are introduced later)
+node_modules/
+dist/
+build/
+out/
+.npm
+*.log
+
+# Python cache (if any python scripts are used)
+__pycache__/
+*.pyc
+
+# Local environment configuration
+.env
+.env.local
+.env.*.local
